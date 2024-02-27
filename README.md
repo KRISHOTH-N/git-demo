@@ -2,3 +2,4 @@
 To practice git hub
 edited
 new line added
+line added for conflict
